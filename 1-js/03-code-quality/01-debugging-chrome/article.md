@@ -14,7 +14,7 @@
 - `key:F12` (Mac: `key:Cmd+Opt+I`) দিয়ে ডেভেলপার সরঞ্জাম চালু করুন।
 - `Sources` প্যানেল নির্বাচন করুন।
 
-Here's what you should see if you are doing it for the first time:
+আপনি যদি প্রথমবারের মতো এটি করছেন তা আপনার এখানে দেখার বিষয়:
 
 ![](chrome-open-sources.svg)
 
