@@ -2,7 +2,7 @@
 
 আরও জটিল কোড লেখার আগে আসুন আমরা ডিবাগিং সম্পর্কে কথা বলি।
 
-[Debugging](https://en.wikipedia.org/wiki/Debugging) is the process of finding and fixing errors within a script. All modern browsers and most other environments support debugging tools -- a special UI in developer tools that makes debugging much easier. It also allows to trace the code step by step to see what exactly is going on.
+[ডিবাগিং](https://en.wikipedia.org/wiki/Debugging) একটি স্ক্রিপ্টের মধ্যে ত্রুটি খুঁজে বের এবং ঠিক করার প্রক্রিয়া। সকল আধুনিক ব্রাউজার এবং অধিকাংশ অন্যান্য পরিবেশ ডিবাগিং সরঞ্জাম সমর্থন করে -- ডেভেলপার সরঞ্জামে একটি বিশেষ UI যা ডিবাগিং অনেক সহজ করে তোলে। এটি ধাপে ধাপে কোড টি খুঁজে বের করার অনুমতি দেয় যে ঠিক কি ঘটছে।
 
 We'll be using Chrome here, because it has enough features, most other browsers have a similar process.
 
