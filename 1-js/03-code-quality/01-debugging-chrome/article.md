@@ -18,7 +18,7 @@
 
 ![](chrome-open-sources.svg)
 
-The toggler button <span class="devtools" style="background-position:-172px -98px"></span> opens the tab with files.
+টগলারের বোতামটি <span class="devtools" style="background-position:-172px -98px"></span> ফাইল সহ ট্যাবটি খুলবে।
 
 Let's click it and select `hello.js` in the tree view. Here's what should show up:
 
