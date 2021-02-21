@@ -182,10 +182,10 @@ If we have enough logging in our code, then we can see what's going on from the 
 
 ## Summary
 
-As we can see, there are three main ways to pause a script:
-1. A breakpoint.
-2. The `debugger` statements.
-3. An error (if dev tools are open and the button <span class="devtools" style="background-position:-90px -146px"></span> is "on").
+আমরা দেখতে পাচ্ছি, স্ক্রিপ্টটি থামানোর জন্য তিনটি প্রধান উপায় রয়েছে:
+1. একটি ব্রেকপয়েন্ট।
+2. `Debugger` বিবৃতি।
+3. একটি ত্রুটি (যদি dev tools খোলা থাকে এবং বাটন <span class="devtools" style="background-position:-90px -146px"></span> "অন" আছে)।
 
 When paused, we can debug - examine variables and trace the code to see where the execution goes wrong.
 
