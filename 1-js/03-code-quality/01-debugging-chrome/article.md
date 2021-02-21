@@ -8,11 +8,11 @@
 
 ## The "Sources" panel
 
-Your Chrome version may look a little bit different, but it still should be obvious what's there.
+আপনার ক্রোম সংস্করণ একটু ভিন্ন মনে হতে পারে, কিন্তু এটা এখনো স্পষ্ট হওয়া উচিত যে সেখানে কি আছে।
 
-- Open the [example page](debugging/index.html) in Chrome.
-- Turn on developer tools with `key:F12` (Mac: `key:Cmd+Opt+I`).
-- Select the `Sources` panel.
+- ক্রোমে [example page](debugging/index.html) খুলুন।
+- `key:F12` (Mac: `key:Cmd+Opt+I`) দিয়ে ডেভেলপার সরঞ্জাম চালু করুন।
+- `Sources` প্যানেল নির্বাচন করুন।
 
 Here's what you should see if you are doing it for the first time:
 
